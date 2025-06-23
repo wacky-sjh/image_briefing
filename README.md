@@ -8,9 +8,6 @@ AI 기반 이미지 설명 생성기 (Next.js + Google Gemini API)
 
 **Image Briefing**은 이미지를 업로드하면 Google Gemini API를 활용해 해당 이미지에 대한 상세한 설명을 자동으로 생성해주는 웹 서비스입니다.
 
-- 이미지 업로드 및 미리보기
-- Gemini Vision 모델을 통한 AI 이미지 분석 및 설명 생성
-
 ---
 
 ## 주요 기능
